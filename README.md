@@ -57,4 +57,8 @@ Este repositorio contiene un proyecto que consiste en una aplicación web desarr
 
    d. Copia el link de la terminal, pegalo y podras ver el proyecto
 
+Gracias por su atencion 
+
+Autor: Camilo Lopez Aguilar
+
   
